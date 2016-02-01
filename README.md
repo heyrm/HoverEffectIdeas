@@ -1,3 +1,3 @@
 # Hover Effect Ideas
 
-A backup version of Hover Effect Ideas taken from [codedrops](https://github.com/codrops/HoverEffectIdeas) 
+A backup version of Hover Effect Ideas taken from [codrops](https://github.com/codrops/HoverEffectIdeas) 
